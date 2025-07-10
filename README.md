@@ -4,6 +4,7 @@
 
 ## 🥵 Languages & Technologies
 
+<div>
 <!-- Python -->
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="50" height="50"/>
@@ -40,9 +41,11 @@
 <a href="https://swift.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="swift" width="50" height="50"/>
 </a>
+</div>
 
 ## 🥶 Tools & IDEs
 
+<p>
 <!-- Git -->
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="50" height="50"/>
@@ -59,6 +62,7 @@
 <a href="https://www.gnu.org/software/make/manual/make.html" target="_blank">
   <img src="https://raw.githubusercontent.com/VanBaNguyen/VanBaNguyen/main/assets/makefile.jpg" width="50" height="50"/>
 </a>
+</p>
 
 ## 🤝 Socials
 
