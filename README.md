@@ -57,7 +57,7 @@
 </a>
 <!-- Makefile -->
 <a href="https://www.gnu.org/software/make/manual/make.html" target="_blank">
-  <img src="assets/Makefile.jpg" alt="makefile" width="50" height="50"/>
+  <img src="./assets/Makefile.jpg" alt="makefile" width="50" height="50"/>
 </a>
 
 ## 🤝 Socials
