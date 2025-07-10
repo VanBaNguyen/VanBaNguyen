@@ -4,7 +4,7 @@
 
 ## 🥵 Languages & Technologies
 
-<div>
+<div align="left">
 <!-- Python -->
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="50" height="50"/>
@@ -45,7 +45,7 @@
 
 ## 🥶 Tools & IDEs
 
-<p>
+<p align="left">
 <!-- Git -->
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="50" height="50"/>
