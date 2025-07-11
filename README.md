@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Van! :3
+# Hi 🫶, I'm Van! :3
 
 <div align="left">
 
@@ -71,7 +71,7 @@ I am a second-year student at Carleton University, majoring in Computer Science 
 </a>
 </p>
 
-## 🤝 Yap Sites (Let's connect)
+## 🤝 Yap Links (Let's connect)
 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/VanBaNguyen/" target="_blank">
