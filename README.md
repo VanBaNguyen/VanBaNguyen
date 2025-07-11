@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Thank+You+for+Visiting!;CS+Student+@+Carleton+University;I+love+coding!&color=%2339FF14&font=Inter" alt="Welcome Banner" style="margin-bottom:-18px;"/>
 
-I am a second-year student at Carleton University, majoring in Computer Science with a stream in AI/ML, and a minor in Mathematics. I like turning idaes into tangible projects that can solve real-world problems.
+I am a second-year student at Carleton University, majoring in Computer Science with a stream in AI/ML, and a minor in Mathematics. I like turning ideas into tangible projects that can solve real-world problems.
 </div>
 
 ## 🥵 Languages & Technologies
@@ -56,6 +56,9 @@ I am a second-year student at Carleton University, majoring in Computer Science 
 <!-- Git -->
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="50" height="50"/>
+</a>
+<a href="https://github.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="50" height="50"/>
 </a>
 <!-- VSCode -->
 <a href="https://code.visualstudio.com/" target="_blank">
