@@ -1,10 +1,17 @@
+<div align="center">
+
 # Hi 👋, I'm Van! :3
 
-![Welcome Banner](https://readme-typing-svg.herokuapp.com/?lines=Thank+You+for+Visiting!;CS+Student+@+Carleton+University;I+love+coding!)
+<div align="left">
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Thank+You+for+Visiting!;CS+Student+@+Carleton+University;I+love+coding!" alt="Welcome Banner" style="margin-bottom:-10px;"/>
+
+I am a second-year student at Carleton University, majoring in Computer Science with a stream in AI/ML, and a minor in Mathematics. I like turning idaes into tangible projects that can solve real-world problems.
+</div>
 
 ## 🥵 Languages & Technologies
 
-<div align="left">
+<div align="center">
 <!-- Python -->
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="50" height="50"/>
@@ -45,7 +52,7 @@
 
 ## 🥶 Tools & IDEs
 
-<p align="left">
+<p align="center">
 <!-- Git -->
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="50" height="50"/>
@@ -90,4 +97,5 @@
 
 ![](https://komarev.com/ghpvc/?username=vanbanguyen&color=brightgreen)
 
+</div>
 </div>
