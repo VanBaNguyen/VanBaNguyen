@@ -4,7 +4,7 @@
 
 <div align="left">
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Thank+You+for+Visiting!;CS+Student+@+Carleton+University;I+love+coding!&color=%2339FF14&font=Inter" alt="Welcome Banner" style="margin-bottom:-10px;"/>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Thank+You+for+Visiting!;CS+Student+@+Carleton+University;I+love+coding!&color=%2339FF14&font=Inter" alt="Welcome Banner" style="margin-bottom:-18px;"/>
 
 I am a second-year student at Carleton University, majoring in Computer Science with a stream in AI/ML, and a minor in Mathematics. I like turning idaes into tangible projects that can solve real-world problems.
 </div>
