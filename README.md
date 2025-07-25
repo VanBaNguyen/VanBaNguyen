@@ -68,6 +68,10 @@ I am a second-year student at Carleton University, majoring in Computer Science 
 <a href="https://www.jetbrains.com/pycharm/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="50" height="50"/>
 </a>
+<!-- Xcode -->
+<a href="https://developer.apple.com/xcode/" target="_blank">
+  <img src="https://raw.githubusercontent.com/VanBaNguyen/VanBaNguyen/main/assets/xcodelogo.png" alt="xcode" width="50" height="50"/>
+</a>
 <!-- Makefile -->
 <a href="https://www.gnu.org/software/make/manual/make.html" target="_blank">
   <img src="https://raw.githubusercontent.com/VanBaNguyen/VanBaNguyen/main/assets/makefile.jpg" width="50" height="50"/>
