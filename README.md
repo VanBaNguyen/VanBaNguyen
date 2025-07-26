@@ -93,7 +93,7 @@ I am a second-year student at Carleton University, majoring in Computer Science 
   <img src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019.png" alt="outlook" width="50" height="50"/>
 </a>
 <!-- LeetCode -->
-<a href="https://leetcode.com/VanNgu/" target="_blank">
+<a href="https://leetcode.com/VanOwO/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="leetcode" width="50" height="50"/>
 </a>
 
