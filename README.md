@@ -76,6 +76,14 @@ I am a second-year student at Carleton University, majoring in Computer Science 
 <a href="https://www.gnu.org/software/make/manual/make.html" target="_blank">
   <img src="https://raw.githubusercontent.com/VanBaNguyen/VanBaNguyen/main/assets/makefile.jpg" width="50" height="50"/>
 </a>
+<!-- Docker -->
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" 
+       alt="docker" 
+       width="80" 
+       height="80" 
+       style="vertical-align: middle; margin-top: -40px;"/>
+</a>
 </p>
 
 ## 🤝 Yap Links (Let's connect)
@@ -92,10 +100,7 @@ I am a second-year student at Carleton University, majoring in Computer Science 
 <a href="mailto:vannguyen5@cmail.carleton.ca">
   <img src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019.png" alt="outlook" width="50" height="50"/>
 </a>
-<!-- LeetCode -->
-<a href="https://leetcode.com/VanOwO/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="leetcode" width="50" height="50"/>
-</a>
+
 
 <!-- Other ;) -->
 <div align="center">
