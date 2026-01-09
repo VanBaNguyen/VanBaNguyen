@@ -12,101 +12,72 @@ I am a second-year student at Carleton University, majoring in Computer Science 
 ## 🥵 Languages & Technologies
 
 <div align="center">
-<!-- Python -->
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-</a>
-<!-- Java -->
-<a href="https://www.java.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="50" height="50"/>
-</a>
-<!-- C -->
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="50" height="50"/>
-</a>
-<!-- C++ -->
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
-</a>
-<!-- HTML5 -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/>
-</a>
-<!-- CSS3 -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="50" height="50"/>
-</a>
-<!-- JavaScript -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-</a>
-<!-- TypeScript -->
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
-</a>
-<!-- Swift -->
-<a href="https://swift.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="swift" width="50" height="50"/>
-</a>
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
+
+</div>
+
+## 🗄️ Databases (DBMS)
+
+<div align="center">
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white)
+
 </div>
 
 ## 🥶 Tools & IDEs
 
 <p align="center">
-<!-- Git -->
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="50" height="50"/>
 </a>
 <a href="https://github.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="50" height="50"/>
 </a>
-<!-- VSCode -->
+<a href="https://github.com/features/actions" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="github actions" width="50" height="50"/>
+</a>
 <a href="https://code.visualstudio.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/>
 </a>
-<!-- PyCharm -->
 <a href="https://www.jetbrains.com/pycharm/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="50" height="50"/>
 </a>
-<!-- Xcode -->
 <a href="https://developer.apple.com/xcode/" target="_blank">
   <img src="https://raw.githubusercontent.com/VanBaNguyen/VanBaNguyen/main/assets/xcodelogo.png" alt="xcode" width="50" height="50"/>
 </a>
-<!-- Makefile -->
-<a href="https://www.gnu.org/software/make/manual/make.html" target="_blank">
-  <img src="https://raw.githubusercontent.com/VanBaNguyen/VanBaNguyen/main/assets/makefile.jpg" width="50" height="50"/>
+<a href="https://www.gnu.org/software/bash/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="50" height="50"/>
 </a>
-<!-- Docker -->
-<a href="https://www.docker.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" 
-       alt="docker" 
-       width="80" 
-       height="80" 
-       style="vertical-align: middle; margin-top: -40px;"/>
+<a href="https://www.sqlalchemy.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy" width="50" height="50"/>
 </a>
 </p>
 
 ## 🤝 Yap Links (Let's connect)
 
-<!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/VanBaNguyen/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="50" height="50"/>
 </a>
-<!-- Personal Website -->
 <a href="https://vannguyen.xyz/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/domain.png" alt="website" width="50" height="50"/>
 </a>
-<!-- Email (Outlook) -->
 <a href="mailto:vannguyen5@cmail.carleton.ca">
   <img src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019.png" alt="outlook" width="50" height="50"/>
 </a>
 
 
-<!-- Other ;) -->
 <div align="center">
 <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanbanguyen&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=vanbanguyen&color=brightgreen)
 
