@@ -1,12 +1,12 @@
 <h1 align="center">Hi 🫶, I'm Van! :3</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thank+You+for+Visiting!;CS+Student+@+Carleton+University;I+love+coding!&color=%2339FF14&font=Inter" alt="Welcome Banner"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thank+You+for+Visiting!;CS+Student+@+Carleton+University;I+love+coding!&color=%2339FF14&font=Inter&center=true" alt="Welcome Banner"/>
 </p>
 
 <p align="center">I am a second-year student at Carleton University, majoring in Computer Science with a stream in AI/ML, and a minor in Mathematics. I like turning ideas into tangible projects that can solve real-world problems.</p>
 
-## 🥵 Languages & Technologies
+<h2 align="center">🥵 Languages & Technologies</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white" alt="Swift"/>
 </p>
 
-## 🗄️ Databases (DBMS)
+<h2 align="center">🗄️ Databases (DBMS)</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" alt="PostgreSQL"/>
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white" alt="Neo4j"/>
 </p>
 
-## 🤝 Hi
+<h2 align="center">🤝 Hi</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/VanBaNguyen/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="50" height="50"/></a>
