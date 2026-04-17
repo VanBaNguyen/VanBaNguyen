@@ -11,28 +11,24 @@ I am a second-year student at Carleton University, majoring in Computer Science 
 
 ## 🥵 Languages & Technologies
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white" alt="Swift"/>
+</p>
 
 ## 🗄️ Databases (DBMS)
 
-<div align="center">
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white" alt="Neo4j"/>
+</p>
 
 ## 🥶 Tools & IDEs
 
@@ -63,17 +59,13 @@ I am a second-year student at Carleton University, majoring in Computer Science 
 </a>
 </p>
 
-## 🤝 Yap Links (Let's connect)
+## 🤝 Hi
 
-<a href="https://www.linkedin.com/in/VanBaNguyen/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="50" height="50"/>
-</a>
-<a href="https://vannguyen.xyz/" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/domain.png" alt="website" width="50" height="50"/>
-</a>
-<a href="mailto:vannguyen5@cmail.carleton.ca">
-  <img src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019.png" alt="outlook" width="50" height="50"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/VanBaNguyen/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="50" height="50"/></a>
+  <a href="https://vannguyen.xyz/" target="_blank"><img src="https://img.icons8.com/color/48/000000/domain.png" alt="website" width="50" height="50"/></a>
+  <a href="mailto:contact@vannguyen.me"><img src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019.png" alt="outlook" width="50" height="50"/></a>
+</p>
 
 
 <div align="center">
