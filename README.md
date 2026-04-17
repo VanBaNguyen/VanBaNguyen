@@ -1,13 +1,10 @@
-<div align="center">
+<h1 align="center">Hi 🫶, I'm Van! :3</h1>
 
-# Hi 🫶, I'm Van! :3
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thank+You+for+Visiting!;CS+Student+@+Carleton+University;I+love+coding!&color=%2339FF14&font=Inter" alt="Welcome Banner"/>
+</p>
 
-<div align="left">
-
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Thank+You+for+Visiting!;CS+Student+@+Carleton+University;I+love+coding!&color=%2339FF14&font=Inter" alt="Welcome Banner" style="margin-bottom:-18px;"/>
-
-I am a second-year student at Carleton University, majoring in Computer Science with a stream in AI/ML, and a minor in Mathematics. I like turning ideas into tangible projects that can solve real-world problems.
-</div>
+<p align="center">I am a second-year student at Carleton University, majoring in Computer Science with a stream in AI/ML, and a minor in Mathematics. I like turning ideas into tangible projects that can solve real-world problems.</p>
 
 ## 🥵 Languages & Technologies
 
@@ -30,19 +27,6 @@ I am a second-year student at Carleton University, majoring in Computer Science 
   <img src="https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white" alt="Neo4j"/>
 </p>
 
-## 🥶 Tools & IDEs
-
-<p align="center">
-  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="50" height="50"/></a>
-  <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="50" height="50"/></a>
-  <a href="https://github.com/features/actions" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="github actions" width="50" height="50"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/></a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="50" height="50"/></a>
-  <a href="https://developer.apple.com/xcode/" target="_blank"><img src="https://raw.githubusercontent.com/VanBaNguyen/VanBaNguyen/main/assets/xcodelogo.png" alt="xcode" width="50" height="50"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="50" height="50"/></a>
-  <a href="https://www.sqlalchemy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy" width="50" height="50"/></a>
-</p>
-
 ## 🤝 Hi
 
 <p align="center">
@@ -51,9 +35,7 @@ I am a second-year student at Carleton University, majoring in Computer Science 
   <a href="mailto:contact@vannguyen.me"><img src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019.png" alt="outlook" width="50" height="50"/></a>
 </p>
 
-
 <p align="center">
   <br/>
   <img src="https://komarev.com/ghpvc/?username=vanbanguyen&color=brightgreen" alt="Profile views"/>
 </p>
-</div>
